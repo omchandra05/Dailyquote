@@ -12,7 +12,7 @@ Welcome to **DailyQuote**, the website that provides you with a fresh, inspirati
 
 ## Live Demo
 
-Visit the website at: [https://omchandra05.github.io/Dailyquote/src/index.html]([https://omchandra05.github.io/Dailyquote/src/index.html]) (https://omchandra05.github.io/Dailyquote/src/index.html)
+Visit the website at: []([https://omchandra05.github.io/Dailyquote/src/index.html]) (https://omchandra05.github.io/Dailyquote/src/index.html)
 
 ## Installation
 
